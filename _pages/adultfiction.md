@@ -8,8 +8,8 @@ permalink: /adultfiction/
 vis_include: vis/goodreads_genre_nokids_anonymous_tsne.html
 ---
 
-This is an interactive Bokeh visualization of ~1750 of the most active users on the Goodreads social
-reading site.  They were randomly selected in 2017 from all users who
+This is an interactive Bokeh visualization of 1672 of the most active users on the Goodreads social
+reading site.  They were randomly selected in early 2018 from all users who
 had then published at least 150 reviews on the site.   Each reader is represented as
 a point, color-coded to show the primary genre of their reading, excluding
 non-fiction and fiction for children and young people. Our reason for excluding those
