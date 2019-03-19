@@ -32,8 +32,8 @@ bestsellers and of 1300 novels that made the shortlists of major awards since
 1960, plus a substantial cross-section of the reviews of curated top-200 lists
 of mystery/crime/detective fiction, science fiction, and chick lit/modern
 romance novels.  In addition, we have compiled all the reviews written by a
-random set of 1,750 highly active Goodreads users, who between them have read
-more than 300,000 unique works of fiction across the full range of popular and
+random set of 1,672 highly active Goodreads users, who between them have read
+more than 200,000 unique works of fiction across the full range of popular and
 not-so-popular genres. We have refined and structured this data and developed
 quite a lot of code, most of which may be shared with other researchers to help
 them pursue their own questions about contemporary readers, tastes, and values.
